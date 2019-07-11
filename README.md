@@ -1,6 +1,8 @@
 # Ruby Exercises
 
-This is a collection of exercises to practice various aspects of Ruby. Each folder in this repository is a set of related exercises. Open up the folder and read the README to learn more about them.
+This is a collection of exercises to practice various aspects of Ruby.
+Each folder in this repository is a set of related exercises.
+Open up the folder and read the README to learn more about them.
 
 ## Getting Started
 
